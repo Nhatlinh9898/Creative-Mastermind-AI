@@ -1,0 +1,7 @@
+{
+  "name": "Creative Mastermind AI",
+  "description": "Siêu ứng dụng kiến tạo nội dung đa lĩnh vực: Công nghệ, Sáng tạo, Âm nhạc và Điện ảnh với công nghệ AI tối thượng.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
